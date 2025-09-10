@@ -1,4 +1,0 @@
-streamlit
-pandas
-Pillow
-SQLAlchemy>=2.0
